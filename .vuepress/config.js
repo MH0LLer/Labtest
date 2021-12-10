@@ -33,8 +33,8 @@ module.exports = {
         text: 'Contact',
         items: [
           {
-            text: 'Twitter',
-            link: 'https://www.twitter.com/'
+            text: 'facebook',
+            link: 'https://www.facebook.com/'
           },
           {
             text: 'Email',
