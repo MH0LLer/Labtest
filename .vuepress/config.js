@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'VuePress Beginner Kit',
+
   description: 'This is your page description.',
   themeConfig: {
     // logo: '/vuepress-logo.png',
@@ -33,8 +33,7 @@ module.exports = {
         text: 'Contact',
         items: [
           {
-            text: 'facebook',
-            link: 'https://www.facebook.com/'
+
           },
           {
             text: 'Email',
