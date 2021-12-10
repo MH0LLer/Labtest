@@ -34,7 +34,7 @@ module.exports = {
         items: [
           {
             text: 'Twitter',
-            link: 'https://www.twitter.com/'
+            link: 'https://www.google.com/'
           },
           {
             text: 'Email',
