@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'VuePress Starter Kit',
+  title: 'VuePress Beginner Kit',
   description: 'This is your page description.',
   themeConfig: {
     // logo: '/vuepress-logo.png',
