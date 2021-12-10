@@ -24,7 +24,7 @@ module.exports = {
             link: '/section/#section-introduction'
           },
           {
-            text: 'Some More Content!',
+            text: 'dogg Content!',
             link: '/section/#some-more-content'
           }
         ]
